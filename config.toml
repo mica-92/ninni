@@ -25,19 +25,11 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
+    source  = "/docs/sample_video.mp4"
     type    = "video/mp4"
-    poster  = "/background.png"
+    poster  = "/docs/background.png"
 [params.videoBackground]
     overlay = "rgba(3 , 2, 5, 0.65)" # optional
-
-[[params.mainMenu]]
-    link = "trial"
-    text = "trial"
-
-[[params.mainMenu]]
-    link = "hello"
-    text = "hello!"
 
 [[params.mainMenu]]
     link = "hello"
