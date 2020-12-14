@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title | markdownify }}</title>
+    <link href='https://fonts.googleapis.com/css?family=Mukta' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Syne+Mono' rel='stylesheet'>
+</head>
+
+<body>
+    {{ with .Site.Params.videoBackground }}
+        <video class="video" autoplay muted preload loop playsinline id="myVideo">
+            {{ range .sources }}
+                <source
+                    src="{{ .source }}"
+                    type="{{ .type }}"
+                    poster="{{ .poster }}" />
+            {{ end }}
+        </video>
+        {{ with .overlay }}
+            <div id="overlay" style="background: {{ . | safeCSS }}"></div>
+        {{ end }}
+    {{ end }}
+    
+    
+    <nav role="title" class="flex-container footer">
+        <p class="nametitle">Ph.D. Student | Earth and Environmental Science Department | University of Pennsylvania
+            <br><p class="field">Ice Mechanics | Rheology | <a href="">Ice Physics Lab</a></p>
+        <hr></p>
+
+        <p class="name">
+            Maria Micaela Ninni<br></p>
+    </nav>
+ 
+    <nav role="navigation" class="flex-container" id="splash">
+
+        {{ if .Site.Params.mainMenu }}
+        {{ range .Site.Params.mainMenu }}
+            <a href="{{.link}}" class="big-link">
+                {{.text}}
+            </a>
+        {{ end }}
+
+        {{ else }}
+        {{ range .Site.Sections }}
+            <a href="{{.RelPermalink}}" class="big-link">
+                {{.Title | markdownify}}
+            </a>
+        {{ end }}
+        {{ end }}
+
+    </nav>
+    <nav role="update" class="flex-container footer">
+    <p class="date">Image Credit: <a href="https://tc.copernicus.org/articles/9/2201/2015/">F.Paul (2015)</a></p></nav>
+</body>
+
+</html>

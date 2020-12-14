@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ block "head" . }}
+    {{ partial "head.html" . }}
+    {{ end }}
+
+    {{ block "head_resources" . }}
+    <!-- Use this block to link to further resources like .js or .css files. -->
+    {{ end }}
+    <title>
+        {{ block "title" . }}
+        {{ .Title | markdownify}}
+        {{ end }}
+    </title>
+</head>
+
+<body>
+    <footer class="flex-container footer">{{ partial "navtop.html" . }}</footer>
+
+    {{ block "main" . }}
+    {{ block "section_title" . }}
+    <header class="wrap flex-container">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    {{ end }}
+    <main class="wrap">
+        {{ block "section_content" . }}
+        <article role="article" class="flex-container">{{ .Content }}</article>
+        {{ end }}
+
+
+    </main>
+    {{ block "footer" . }}
+    <footer class="flex-container footer">{{ partial "footer.html" . }}</footer>
+    {{ end }}
+    {{ end }}
+</body>
+
+</html>
