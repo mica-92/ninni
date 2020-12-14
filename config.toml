@@ -1,5 +1,4 @@
 baseurl                  = "https://mica-92.github.io/ninni/"           # Your domain name
-publishDir               = "docs"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -25,11 +24,15 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
+    source  = "https://themes.gohugo.io//theme/hugo-theme-sam/sample_video.mp4"
     type    = "video/mp4"
-    poster  = "/background.png"
+    poster  = "/content/2Fs.png"
 [params.videoBackground]
     overlay = "rgba(3 , 2, 5, 0.65)" # optional
+
+[[params.mainMenu]]
+    link = "trial"
+    text = "TRIAL"
 
 [[params.mainMenu]]
     link = "hello"
