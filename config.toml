@@ -1,5 +1,4 @@
 baseurl                  = "https://mica-92.github.io/ninni/"           # Your domain name
-publishDir               = "docs"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -30,6 +29,10 @@ pygmentsCodefences       = true
     poster  = "/background.png"
 [params.videoBackground]
     overlay = "rgba(3 , 2, 5, 0.65)" # optional
+
+[[params.mainMenu]]
+    link = "TRIAL"
+    text = "TRIAL"
 
 [[params.mainMenu]]
     link = "hello"
