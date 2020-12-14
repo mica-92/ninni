@@ -1,4 +1,4 @@
-baseurl                  = "https://mica-92.github.io/ninni/docs/"           # Your domain name
+baseurl                  = "https://mica-92.github.io/ninni/"           # Your domain name
 publishDir               = "docs"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
