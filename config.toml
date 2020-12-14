@@ -25,7 +25,7 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+    source  = "https://mica-92.github.io/ninni/ice.mp4"
     type    = "video/mp4"
     poster  = "/ninni/docs/background.png"
 [params.videoBackground]
