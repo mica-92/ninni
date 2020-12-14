@@ -25,9 +25,9 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "/ninni/docs/ice.mp4"
+    source  = "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
     type    = "video/mp4"
-    poster  = "/docs/background.png"
+    poster  = "/ninni/docs/background.png"
 [params.videoBackground]
     overlay = "rgba(3 , 2, 5, 0.65)" # optional
 
