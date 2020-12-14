@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poem on Maria Micaela Ninni</title>
-    <link>mica-92.github.io/ninni/tags/poem/</link>
+    <link>mica-92.github.io/ninni/docs/tags/poem/</link>
     <description>Recent content in poem on Maria Micaela Ninni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
     
-	<atom:link href="mica-92.github.io/ninni/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="mica-92.github.io/ninni/docs/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>`Code` Poetry</title>
-      <link>mica-92.github.io/ninni/posts/code-poetry/</link>
+      <link>mica-92.github.io/ninni/docs/posts/code-poetry/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>mica-92.github.io/ninni/posts/code-poetry/</guid>
+      <guid>mica-92.github.io/ninni/docs/posts/code-poetry/</guid>
       <description>Pseudo code poem.
 if (this === that): try write_new_poem() except not_a_poet as e: return e e cummings?
 console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&amp;#39;) An embedded gist using shortcode:
@@ -25,10 +25,10 @@ console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     
     <item>
       <title>A Poem</title>
-      <link>mica-92.github.io/ninni/posts/a-poem/</link>
+      <link>mica-92.github.io/ninni/docs/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>mica-92.github.io/ninni/posts/a-poem/</guid>
+      <guid>mica-92.github.io/ninni/docs/posts/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;
