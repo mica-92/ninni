@@ -3,7 +3,7 @@ publishDir               = "docs"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Maria Micaela Ninni"
+title                    = "Maria Micaela Ninni "
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -14,14 +14,14 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "cold.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Maria Micaela Ninni"
+    footerText           = "Maria Micaela Ninni © 2020"
     nameText             = "Maria Micaela Ninni"
     meText               = "Ph.D. Student"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Cal me Sam"
+    description          = "Ph.D Student Profile"               # Max 160 characters show in search results
+    images               = ["2Fs.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Ninni"
     # rss                = ""
 
 [[params.videoBackground.sources]]
@@ -29,7 +29,7 @@ pygmentsCodefences       = true
     type    = "video/mp4"
     poster  = "/ninni/docs/background.png"
 [params.videoBackground]
-    overlay = "rgba(3 , 2, 5, 0.65)" # optional
+    overlay = "rgba(3 , 2, 5, 0.5)" # optional
 
 [[params.mainMenu]]
     link = "hello"

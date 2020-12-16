@@ -11,21 +11,41 @@
 .table
     margin-top: 6rem
 
+th
+    @media screen and (max-width: 900px)
+     display: flex
+     -ms-flex: 50%
+     flex: 0 1 auto
+     margin: 30px
+       align-items: center
+        justify-content: center
+
+
 th.topnavname
     color: #E4F0D0
     text-align: left
     font-size: 1.6rem
     font-weight: 600
+    @media screen and (max-width: 900px)
+        align-items: center
+        justify-content: center
+        
 
 th.topnavhome
     font-family: 'Syne Mono'
     text-align: right
     font-size: 1rem
-    font-weight: 100    
+    font-weight: 100 
+    @media screen and (max-width: 900px)
+        align-items: center
+        justify-content: center
+        text-align: center   
 
 hr.topnav
     margin-top: 3rem
     color: #39424E
+
+
 
 
 i
