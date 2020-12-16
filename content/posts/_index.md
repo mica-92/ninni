@@ -2,6 +2,8 @@
 title: "Posts"
 date: 2018-02-13T12:21:57-05:00
 
----
 
-Welcome to the blog section! This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+---
+Welcome to my blog! This is were I'll be posting updates of my Ph.D journey as well as some useful articles about research, productivity and graduate life. 
+
+If you want to follow my day-to-day adventures check out my personal blog [`Addhana`](httpd://addhana.com)

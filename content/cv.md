@@ -4,11 +4,13 @@ date: 2018-02-13T13:42:49-05:00
 ---
 # PROFILE
 --------------------------------------------------------------------------------
-HI! I’m a geologist snd I got my degree while COVID existed in the world
-- Ice is cool
-- and reep is creepy 
+Ever since I was a little girl, I was always captivated by nature and natural systems' complexity. A crazy journey to Disney and a letter to Yellowstone NP set me on my geological journey almost a decade ago. A journey I'm still exploring during my graduate education.
 
-Download: [`long version`](https://docs.google.com/document/d/1sO3dQuLYV-o3EGTUCLtGFWCMPZ95O1_43zXR0SPs4lo/edit?usp=sharing)   [`short version`](http://localhost:1313/cv/#profile)
+During my undergraduate years, I focused primarily on geochemistry, mineralogy, and the deposition of minerals. My senior thesis was done in the Farallón Negro Volcanic Complex in Catamarca, Argentina. Together with my directors, we aimed to create a geologic, geochemical, and structural profile of Los Viscos Vein, one of the prospective areas of interest in the intermediate-sulphidation epithermal system surrounding Miocene's caldera.  
+
+Now, as part of the Physic Ice Lab, at the Unversity of Pennsylvania, I switched my interest to rock mechanics and rheology. I am currently performing research in ice mechanics and its deformation mechanisms, in particular steady-state creep.
+
+Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-Eu3gjGHRL/view?usp=sharing) [`Long CV`](https://drive.google.com/file/d/1Ad_x0EcOquVG9TRuBaA-sJOKqFWFA9SM/view?usp=sharing) [`Writing Sample`](https://drive.google.com/file/d/1AQquO7o9SADyCwJRBT_xQ3ZKgr2SbgVJ/view?usp=sharing) [`Personal Statement`](https://drive.google.com/file/d/1Aeb7YFN4aauvhaHiqcBkv-UthhCOpZ2i/view?usp=sharing)
 
 ----------------------------------------------------------
 
@@ -29,7 +31,7 @@ Download: [`long version`](https://docs.google.com/document/d/1sO3dQuLYV-o3EGTUC
 - G.P.A *In Progress*
 - Interests: Rheology, Ice Mechanics, Creep and Deformation mechanisms, Planetary Sciences. 
 - Advisor: David L. Goldsby
-- Elective Subjects: Ordinary Differential Equations, Introduction to Material Sciences
+- Elective Subjects: Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology, Experimental Methods in Geophysics
 
 ### B.S Geology and Earth Science
 *Universidad de Buenos Aires, Argentina  (2013 - 2020)*
@@ -69,22 +71,31 @@ Investigation Project UBACyT 2018-2020 20020170100623BA: *‘Metalogenesis of Ar
 ----------------------------------------------------------
 # PUBLICATIONS
 ----------------------------------------------------------
-- Ninni, M.M., and Mendez C.C. (2020). *Hydrothermal Quartz Textural Analysis of Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* XII Congreso Argentino de Geologia Económica. [`pdf`](http://localhost:1313/cv/#profile) [`RG`](http://localhost:1313/cv/#profile)
-- Ninni M.M. (2020). *Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* - Undergraduate Senior Thesis - Thesis directors: Dra. Diana Irene Mutti and Dra. Carolina Carmen Mendez. Ore Deposits and Economical Geology Department, UBA. [`pdf`](http://localhost:1313/cv/#profile) [`RG`](http://localhost:1313/cv/#profile)
+- Ninni, M.M., and Mendez C.C. (2020). *Hydrothermal Quartz Textural Analysis of Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* XII Congreso Argentino de Geologia Económica. [`pdf`](https://drive.google.com/file/d/1Apxt0jZECa7j4mfTqfuyGVcUsagl0VJz/view?usp=sharing) [`RG`](http://localhost:1313/cv/#profile)
+- Ninni M.M. (2020). *Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* - Undergraduate Senior Thesis - Thesis directors: Dra. Diana Irene Mutti and Dra. Carolina Carmen Mendez. Ore Deposits and Economical Geology Department, UBA. [`pdf`](https://drive.google.com/file/d/1AkX23Grf_VeDCpRQQZ1qXib9Wr_IXu8N/view?usp=sharing) [`RG`](http://localhost:1313/cv/#profile)
 ----------------------------------------------------------
 # TEACHING EXPERIENCE AND OTHER COURSES
 ----------------------------------------------------------
 ### GEOL130 - Introduction to Oceanography, University of Pennsylvania
-SS'21 • Jane
+Spring 21 • Jane Dmochowski
+
+### TA Courses 
+
+- Grading in the Sciences				•						Fall 2020
+- Leading Discussion in the Sciences	•								Fall 2020
+- Inclusive Teaching 					•						Fall 2020
+- Science Scenarios 					•						Fall 2020
+- Incorporating Active Learning into STEM Course	•						Fall 2020
+
 
 ----------------------------------------------------------
 # EXTRACURRICULAR ACTIVITIES AND OTHER AFFILIATIONS
 ----------------------------------------------------------
-- Earth Science Week, Structural Geology Stand- UBA (2017)
-- Earth Science Week, Ore Deposits Stand - UBA (2019)
-- Graduate Women in Science Philadelphia Chapter -                      (2020)
-- SAS Gov, EES Representative - University of Pennsylvania 					(2020)
-- GAPSA - University of Pennsylvania								(2020)
-- Mindfulness-Based Stress Reduction Program, 8 week course 				(2018)
-- Seven-day Silent Retreat, Won Dharma Center in Claverack. Instructors Chas DiCapua and Éowyn Ahlstrom (2018)
+- Earth Science Week, Structural Geology Stand • UBA, 2017
+- Earth Science Week, Ore Deposits Stand • UBA, 2019
+- Graduate Women in Science, Philadelphia Chapter • 2020
+- SAS Gov, EES Representative - University of Pennsylvania • 2020
+- GAPSA - University of Pennsylvania • 2020
+- Mindfulness-Based Stress Reduction Program, 8 week program  • 2018 
+- Seven-day Silent Retreat, Won Dharma Center in Claverack. Instructors Chas DiCapua and Éowyn Ahlstrom • 2018
 

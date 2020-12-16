@@ -228,7 +228,9 @@ article {
     max-width: 80%;
     display: block;
     margin: auto;
-    opacity: 1; }
+    opacity: 1;
+    border: 8px solid #ffffff;
+    border-radius: 8px; }
   article blockquote {
     background-color: #cccccc;
     color: #39424E;
