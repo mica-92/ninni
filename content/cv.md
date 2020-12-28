@@ -16,11 +16,11 @@ Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-E
 
 # CONTACT INFORMATION
 ----------------------------------------------------------
-* Institution: Earth & Environmental Sciences Department, University of Pennsylvania, Hayden Hall, 240 S. 33d St., Philadelphia, PA 19104
+* **Institution:** Earth & Environmental Sciences Department, University of Pennsylvania, Hayden Hall, 240 S. 33d St., Philadelphia, PA 19104
 
-* Email: ninni@sas.upenn.edu
+* **Email:** ninni@sas.upenn.edu
 
-* Social Media: [`Institutional Website`](http://earth.sas.upenn.edu/people/maria-micaela-ninni)  [`Research Gate`](http://researchgate.net/profile/maria_ninni)  [`LinkedIn`](http://linkedin.com/in/mninni)
+* **Social Media:** [`Institutional Website`](http://earth.sas.upenn.edu/people/maria-micaela-ninni)  [`Research Gate`](http://researchgate.net/profile/maria_ninni)  [`LinkedIn`](http://linkedin.com/in/mninni)
 ----------------------------------------------------------
 # EDUCATION
 ----------------------------------------------------------
@@ -28,24 +28,24 @@ Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-E
 ### Ph.D. Environmental and Earth Science
 *University of Pennsylvania, USA (2020 - ).*
 - Benjamin Franklin Fellowship
-- G.P.A *In Progress*
-- Interests: Rheology, Ice Mechanics, Creep and Deformation mechanisms, Planetary Sciences. 
-- Advisor: David L. Goldsby
-- Elective Subjects: Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology, Experimental Methods in Geophysics
+- **G.P.A** *In Progress*
+- **Interests:** Rheology, Ice Mechanics, Creep and Deformation mechanisms, Planetary Sciences. 
+- **Advisor:** David L. Goldsby
+- **Elective Subjects:** Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology, Experimental Methods in Geophysics
 
 ### B.S Geology and Earth Science
 *Universidad de Buenos Aires, Argentina  (2013 - 2020)*
-- G.P.A 9.0 (~ 3.7)
-- Elective Subjects: Oil Geology, Mine Geology, Structural Control of Economic Deposits, Isotopes Geology, Applied Geology, Petrophysics, Calcography. 
-- Senior Thesis: Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina. 
-- Advisor: Dra. Diana Irene Mutti and Dra. Carolina Carmen Mendez. Ore Deposits and Economical Geology Department, UBA
+- **G.P.A** 9.0 (~ 3.7)
+- **Elective Subjects:** Oil Geology, Mine Geology, Structural Control of Economic Deposits, Isotopes Geology, Applied Geology, Petrophysics, Calcography. 
+- **Senior Thesis:** Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina. 
+- **Advisor:** Dra. Diana Irene Mutti and Dra. Carolina Carmen Mendez. Ore Deposits and Economical Geology Department, UBA
 ----------------------------------------------------------
 # SKILLS
 ----------------------------------------------------------
 ### Languages:
-- English - Fluent. TOEFL - 112 (2019). IGCSE – Pass with Merits (First Language English, 2008). 
+- **English** - Fluent. TOEFL - 112 (2019). IGCSE – Pass with Merits (First Language English, 2008). 
 A & AS Level - Pass with Merit (First Language English, 2010) 
-- Spanish - Native
+- **Spanish** - Native
 ### Programming: 
 - Geology Program: ArcGIS, QGis, Surfer, Google Earth, 2DMove, Opendtect, Global Mapper
 - Graphic Design: Inkscape, Photoshop.
@@ -71,7 +71,7 @@ Investigation Project UBACyT 2018-2020 20020170100623BA: *‘Metalogenesis of Ar
 ----------------------------------------------------------
 # PUBLICATIONS
 ----------------------------------------------------------
-- Ninni, M.M., and Mendez C.C. (2020). *Hydrothermal Quartz Textural Analysis of Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* XII Congreso Argentino de Geologia Económica. [`pdf`](https://drive.google.com/file/d/1Apxt0jZECa7j4mfTqfuyGVcUsagl0VJz/view?usp=sharing) [`RG`](http://localhost:1313/cv/#profile)
+- Ninni, M.M., and Mendez C.C. (2020). *Hydrothermal Quartz Textural Analysis of Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* XII Congreso Argentino de Geologia Económica. [`pdf`](https://drive.google.com/file/d/1Apxt0jZECa7j4mfTqfuyGVcUsagl0VJz/view?usp=sharing) [`RG`](https://www.researchgate.net/publication/347948976_Analisis_Textural_De_La_Silice_Hidrotermal_En_La_Veta_Los_Viscos_Del_Complejo_Volcanico_Farallon_Negro_Catamarca_Argentina)
 - Ninni M.M. (2020). *Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex, Catamarca, Argentina.* - Undergraduate Senior Thesis - Thesis directors: Dra. Diana Irene Mutti and Dra. Carolina Carmen Mendez. Ore Deposits and Economical Geology Department, UBA. [`pdf`](https://drive.google.com/file/d/1AkX23Grf_VeDCpRQQZ1qXib9Wr_IXu8N/view?usp=sharing) [`RG`](http://localhost:1313/cv/#profile)
 ----------------------------------------------------------
 # TEACHING EXPERIENCE AND OTHER COURSES

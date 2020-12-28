@@ -23,7 +23,7 @@ Nucleosynthesis models come from three separate lines of evidence. Firstly - and
 
 The knowledge of relative abundance of elements in the Solar System, shown in Figure 1, comes from several sources. Through the study of spectroscopic data of the Sun and other stars, as well as studying rock samples - not only from Earth but also from other extraterrestrial bodies like meteorites and lunar samples - the modern notion for element formation started taking shape. 
 
-![Elements](./WS1.png)
+![Elements](/ninni/posts/WS1.png)
 
 *Figure 1. The abundance of elements in the Solar System, logarithmic scale. Source: Wikimedia commons*
 
