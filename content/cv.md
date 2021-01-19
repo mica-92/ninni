@@ -96,6 +96,7 @@ Spring 21 • Jane Dmochowski
 - Graduate Women in Science, Philadelphia Chapter • 2020
 - SAS Gov, EES Representative - University of Pennsylvania • 2020
 - GAPSA - University of Pennsylvania • 2020
+- EES Logo Competition, Winner • 2020
 - Mindfulness-Based Stress Reduction Program, 8 week program  • 2018 
 - Seven-day Silent Retreat, Won Dharma Center in Claverack. Instructors Chas DiCapua and Éowyn Ahlstrom • 2018
 
