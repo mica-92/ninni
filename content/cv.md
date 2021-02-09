@@ -31,7 +31,7 @@ Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-E
 - **G.P.A** *In Progress*
 - **Interests:** Rheology, Ice Mechanics, Creep and Deformation mechanisms, Planetary Sciences. 
 - **Advisor:** David L. Goldsby
-- **Elective Subjects:** Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology, Experimental Methods in Geophysics
+- **Elective Subjects:** Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology (999), Experimental Methods in Geophysics (999), Research Paper Writing, Mechanical Properties of Materials, Attenuation Experimentation (999)  
 
 ### B.S Geology and Earth Science
 *Universidad de Buenos Aires, Argentina  (2013 - 2020)*
@@ -79,6 +79,8 @@ Investigation Project UBACyT 2018-2020 20020170100623BA: *‘Metalogenesis of Ar
 ### GEOL130 - Introduction to Oceanography, University of Pennsylvania
 Spring 21 • Jane Dmochowski
 
+Office Hours, grader
+
 ### TA Courses 
 
 - Grading in the Sciences				•						Fall 2020
@@ -86,17 +88,25 @@ Spring 21 • Jane Dmochowski
 - Inclusive Teaching 					•						Fall 2020
 - Science Scenarios 					•						Fall 2020
 - Incorporating Active Learning into STEM Course	•						Fall 2020
+- Writing Challenging and Exciting Assignments in STEM Fields	•   Spring 2021
+- SAIL (Structured, Active, In-Class Learning)  •   Spring 2021
 
 
 ----------------------------------------------------------
 # EXTRACURRICULAR ACTIVITIES AND OTHER AFFILIATIONS
 ----------------------------------------------------------
-- Earth Science Week, Structural Geology Stand • UBA, 2017
-- Earth Science Week, Ore Deposits Stand • UBA, 2019
-- Graduate Women in Science, Philadelphia Chapter • 2020
+
+- Graduate Women in Science (GWIS), Philadelphia Chapter • joined 2020
+- Geological Society of America (GSA) • joined 2021  
+- American Geophysical Union (AGU) • joined 2021
+- European Geosciences Union (EGU) • joined 2021
+- Unlearning Racism in the Geosciences (URGE) UPenn Pod • 2021
+- Graduate Women in Science Fellowship Reviwer • 2021
 - SAS Gov, EES Representative - University of Pennsylvania • 2020
 - GAPSA - University of Pennsylvania • 2020
-- EES Logo Competition, Winner • 2020
+- EES-UAB Logo Competition, Winner • 2020
+- Earth Science Week, Ore Deposits Stand • UBA, 2019
+- Earth Science Week, Structural Geology Stand • UBA, 2017
 - Mindfulness-Based Stress Reduction Program, 8 week program  • 2018 
 - Seven-day Silent Retreat, Won Dharma Center in Claverack. Instructors Chas DiCapua and Éowyn Ahlstrom • 2018
 

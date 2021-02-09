@@ -11,7 +11,7 @@ I'm Mica (/mēkə/). I am a Ph.D. student in the [Earth and Environmental Scienc
 
 I have a B.S. in Geological Sciences from the University of Buenos Aires, where I focused my elective subjects in [ore deposits and geochemistry](/ninni/research). My area of research geological, geochemical and structural characterization of Los Viscos.
 
-When a [book](https://www.goodreads.com/user/show/114536697-mica-ninni) does not hide my nose, you can usually find me [crocheting](https://mica-92.github.io/ninni/other/piggy.jpg), practicing [yoga](https://mica-92.github.io/ninni/other/#&gid=1&pid=1), [meditating](https://addhana.com/blog/55-streak/), [writing](https://addhana.com), [designing](https://addhana.com/blog/99-eeslogo/) or trying something [new](https://addhana.com/blog/17-beyno/).
+When a [book](https://www.goodreads.com/user/show/114536697-mica-ninni) does not hide my nose, you can usually find me [crocheting](https://mica-92.github.io/ninni/other/piggy.jpg), practicing [yoga](https://mica-92.github.io/ninni/other/#&gid=1&pid=1), [meditating](https://addhana.com/blog/55-streak/), [writing](https://addhana.com), [designing](https://addhana.com/blog/99-eeslogo/), [programming] (https://github.com/mica-92) or trying something [new and crazy](https://addhana.com/blog/17-beyno/).
 
 Follow me on social media [instagram](https://www.instagram.com/mica.ninni/), [research gate](https://www.researchgate.net/profile/Maria_Ninni), and [linkedin](https://www.linkedin.com/in/mninni/). 
 

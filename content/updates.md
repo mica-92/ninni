@@ -6,8 +6,9 @@ This website was developed using [`Hugo`](https://gohugo.io/). The theme used is
 
 The main page backgrounds is credit to [Paul, 2015](https://tc.copernicus.org/articles/9/2201/2015/)
 
-
-
 ```sh
 Release date = 01.01.2021
+Updated = 09.02.2021   
+        - Spring Semester updates (TA responsabilities, subjects and affiliations)
+
 ```
