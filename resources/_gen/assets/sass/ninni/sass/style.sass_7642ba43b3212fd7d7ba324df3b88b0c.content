@@ -88,7 +88,10 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start; }
-
+  @media screen and (max-width: 700px) {
+    .flex-container {
+      align-items: center;
+      justify-content: center; } }
 .bottom-menu {
   display: flex;
   flex-direction: column;
@@ -123,7 +126,9 @@ nav {
   font-weight: 300;
   margin-bottom: 2rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .big-link {
+      font-size: 2.5rem; } }
 .table {
   margin-top: 6rem; }
 
@@ -168,21 +173,33 @@ i {
   font-weight: 900;
   margin-top: 1rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 600px) {
+    .name {
+      font-size: 2.3rem;
+      margin-left: 2rem;
+      margin-right: 2rem; } }
 .nametitle {
   font-family: "Didact Gothic", "sans serif";
   font-size: 0.8rem;
   font-weight: 300;
   margin-top: 0.5rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .nametitle {
+      margin-left: 2rem;
+      margin-right: 2rem;
+      font-size: 0.7rem; } }
 .field {
   font-family: 'Syne Mono';
   font-size: 0.8rem;
   font-weight: 300;
   margin-top: 0.5rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .field {
+      margin-left: 2rem;
+      margin-right: 2rem;
+      font-size: 0.8rem; } }
 .date {
   font-size: 0.7rem; }
 
