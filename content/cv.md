@@ -4,13 +4,13 @@ date: 2018-02-13T13:42:49-05:00
 ---
 # PROFILE
 --------------------------------------------------------------------------------
-Ever since I was a little girl, I was always captivated by nature and natural systems' complexity. A crazy journey to Disney and a letter to Yellowstone NP set me on my geological journey almost a decade ago. A journey I'm still exploring during my graduate education.
+Ever since I was a little girl, I was always captivated by nature and natural systems' complexity. A crazy journey to Disney and a letter to Yellowstone NP set me on my geological journey almost a decade ago. A journey I'm still exploring in my graduate education.
 
 During my undergraduate years, I focused primarily on geochemistry, mineralogy, and the deposition of minerals. My senior thesis was done in the Farallón Negro Volcanic Complex in Catamarca, Argentina. Together with my directors, we aimed to create a geologic, geochemical, and structural profile of Los Viscos Vein, one of the prospective areas of interest in the intermediate-sulphidation epithermal system surrounding Miocene's caldera.  
 
-Now, as part of the Physic Ice Lab, at the Unversity of Pennsylvania, I switched my interest to rock mechanics and rheology. I am currently performing research in ice mechanics and its deformation mechanisms, in particular steady-state creep.
+Now, as part of the Physic Ice Lab, at the University of Pennsylvania, I switched my interest to rock mechanics and rheology. I am currently performing research in ice mechanics and its deformation mechanisms, in particular steady-state creep.
 
-Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-Eu3gjGHRL/view?usp=sharing) [`Long CV`](https://drive.google.com/file/d/1Ad_x0EcOquVG9TRuBaA-sJOKqFWFA9SM/view?usp=sharing) [`Writing Sample`](https://drive.google.com/file/d/1AQquO7o9SADyCwJRBT_xQ3ZKgr2SbgVJ/view?usp=sharing) [`Personal Statement`](https://drive.google.com/file/d/1Aeb7YFN4aauvhaHiqcBkv-UthhCOpZ2i/view?usp=sharing)
+Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-Eu3gjGHRL/view?usp=sharing) [`Long CV`](https://docs.google.com/document/d/1sO3dQuLYV-o3EGTUCLtGFWCMPZ95O1_43zXR0SPs4lo/edit?usp=sharing) [`Writing Sample`](https://drive.google.com/file/d/1AQquO7o9SADyCwJRBT_xQ3ZKgr2SbgVJ/view?usp=sharing) [`Personal Statement`](https://drive.google.com/file/d/1Aeb7YFN4aauvhaHiqcBkv-UthhCOpZ2i/view?usp=sharing)
 
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-E
 - **G.P.A** *In Progress*
 - **Interests:** Rheology, Ice Mechanics, Creep and Deformation mechanisms, Planetary Sciences. 
 - **Advisor:** David L. Goldsby
-- **Elective Subjects:** Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology (999), Experimental Methods in Geophysics (999), Research Paper Writing, Mechanical Properties of Materials, Attenuation Experimentation (999)  
+- **Elective Subjects:** Ordinary Differential Equations, Introduction to Material Sciences, Experimental Glaciology (999), Experimental Methods in Geophysics (999), Research Paper Writing, Mechanical Properties of Materials, Attenuation in Ice, with Applications to Terrestrial Sea Ice, Glaciers and Icy Extraplanetary Bodies (999)  
 
 ### B.S Geology and Earth Science
 *Universidad de Buenos Aires, Argentina  (2013 - 2020)*
@@ -89,7 +89,7 @@ Office Hours, grader
 - Science Scenarios 					•						Fall 2020
 - Incorporating Active Learning into STEM Course	•						Fall 2020
 - Writing Challenging and Exciting Assignments in STEM Fields	•   Spring 2021
-- SAIL (Structured, Active, In-Class Learning)  •   Spring 2021
+- SAIL (Structured, Active, In-Class Learning) Course  •   Spring 2021
 
 
 ----------------------------------------------------------
@@ -101,7 +101,7 @@ Office Hours, grader
 - American Geophysical Union (AGU) • joined 2021
 - European Geosciences Union (EGU) • joined 2021
 - Unlearning Racism in the Geosciences (URGE) UPenn Pod • 2021
-- Graduate Women in Science Fellowship Reviwer • 2021
+- Graduate Women in Science Fellowship Reviewer • 2021
 - SAS Gov, EES Representative - University of Pennsylvania • 2020
 - GAPSA - University of Pennsylvania • 2020
 - EES-UAB Logo Competition, Winner • 2020
