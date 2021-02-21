@@ -20,7 +20,7 @@ Download: [`Short CV`](https://drive.google.com/file/d/1AVizv-uvsVK6Z8Sf1RN0Sz-E
 
 * **Email:** ninni@sas.upenn.edu
 
-* **Social Media:** [`Institutional Website`](http://earth.sas.upenn.edu/people/maria-micaela-ninni)  [`Research Gate`](http://researchgate.net/profile/maria_ninni)  [`LinkedIn`](http://linkedin.com/in/mninni)
+* **Social Media:** [`EES`](http://earth.sas.upenn.edu/people/maria-micaela-ninni)  [`Research Gate`](http://researchgate.net/profile/maria_ninni)  [`LinkedIn`](http://linkedin.com/in/mninni) [`Google Scholar`](https://scholar.google.com/citations?user=8r6mYIIAAAAJ&hl=en&oi=srai)
 ----------------------------------------------------------
 # EDUCATION
 ----------------------------------------------------------
