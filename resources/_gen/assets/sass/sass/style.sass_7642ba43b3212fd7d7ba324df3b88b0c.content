@@ -88,7 +88,10 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start; }
-
+  @media screen and (max-width: 700px) {
+    .flex-container {
+      align-items: center;
+      justify-content: center; } }
 .bottom-menu {
   display: flex;
   flex-direction: column;
@@ -105,7 +108,7 @@ nav {
   background-color: transparent;
   position: relative;
   bottom: 0;
-  padding: 1rem;
+  padding-top: 1rem;
   font-family: "Didact Gothic", "sans serif";
   font-size: 1rem;
   line-height: 1em;
@@ -123,22 +126,40 @@ nav {
   font-weight: 300;
   margin-bottom: 2rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .big-link {
+      font-size: 2.5rem; } }
 .table {
   margin-top: 6rem; }
+
+@media screen and (max-width: 900px) {
+  th {
+    display: flex;
+    -ms-flex: 50%;
+    flex: 0 1 auto;
+    margin: 30px;
+      margin-align-items: center;
+        margin-align-items-justify-content: center; } }
 
 th.topnavname {
   color: #E4F0D0;
   text-align: left;
   font-size: 1.6rem;
   font-weight: 600; }
-
+  @media screen and (max-width: 900px) {
+    th.topnavname {
+      align-items: center;
+      justify-content: center; } }
 th.topnavhome {
   font-family: 'Syne Mono';
   text-align: right;
   font-size: 1rem;
   font-weight: 100; }
-
+  @media screen and (max-width: 900px) {
+    th.topnavhome {
+      align-items: center;
+      justify-content: center;
+      text-align: center; } }
 hr.topnav {
   margin-top: 3rem;
   color: #39424E; }
@@ -152,21 +173,33 @@ i {
   font-weight: 900;
   margin-top: 1rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 600px) {
+    .name {
+      font-size: 2.3rem;
+      margin-left: 2rem;
+      margin-right: 2rem; } }
 .nametitle {
   font-family: "Didact Gothic", "sans serif";
   font-size: 0.8rem;
   font-weight: 300;
   margin-top: 0.5rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .nametitle {
+      margin-left: 2rem;
+      margin-right: 2rem;
+      font-size: 0.7rem; } }
 .field {
   font-family: 'Syne Mono';
   font-size: 0.8rem;
   font-weight: 300;
   margin-top: 0.5rem;
   line-height: 1.5em; }
-
+  @media screen and (max-width: 700px) {
+    .field {
+      margin-left: 2rem;
+      margin-right: 2rem;
+      font-size: 0.8rem; } }
 .date {
   font-size: 0.7rem; }
 
@@ -228,7 +261,9 @@ article {
     max-width: 80%;
     display: block;
     margin: auto;
-    opacity: 1; }
+    opacity: 1;
+    border: 4px solid #ffffff;
+    border-radius: 8px; }
   article blockquote {
     background-color: #cccccc;
     color: #39424E;
