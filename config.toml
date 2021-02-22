@@ -1,4 +1,4 @@
-baseurl                  = "https://mica-92.github.io/ninni/"           # Your domain name
+baseurl                  = "https://ninni.earth"           # Your domain name
 publishDir               = "docs"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
@@ -36,13 +36,12 @@ pygmentsCodefences       = true
     text = "hello!"
 
 [[params.mainMenu]]
-    link = "cv"
-    text = "vitae"
-
-[[params.mainMenu]]
     link = "research"
     text = "research"
 
+[[params.mainMenu]]
+    link = "cv"
+    text = "vitae"
 [[params.mainMenu]]
     link = "contact"
     text = "contact"
