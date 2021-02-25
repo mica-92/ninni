@@ -14,7 +14,7 @@ Geologic, Geochemical and Structural Characterization of the Los Viscos Vein in 
 
 As part of my undergraduate research I worked along [Carolina Mendez](https://www.researchgate.net/profile/Carolina_Mendez4) and [Diana Irene Mutti](https://www.researchgate.net/profile/Diana_Mutti) in the a complete characterization of the Los Viscos Vein in the Farallón Negro Volcanic Complex (FNVC). The main objective was to determine the vein's geochemical, geological, and structural details and to determine its relationship with the  other mineralized deposits present at the Agua de Dionisio mining district. 
 
-Due to the COVID pandemic the senior thesis presentation and its defense were done via Zoom in June 2002. A subsequent paper with detailed analyses of the quartz textures was presented at the [XII Argentinian Economic Geology Congress](https://www.aage.org.ar/actas/), held virtually in October 2020.
+Due to the COVID pandemic the senior thesis presentation and its defense were done via Zoom - and livestreamed through [Youtube](https://www.youtube.com/watch?v=p_2AefgZFeY&t=7308s) - in June 2020. A subsequent paper with detailed analyses of the quartz textures was presented at the [XII Argentinian Economic Geology Congress](https://www.aage.org.ar/actas/), held virtually in October 2020.
 
 ![](THESIS2.png)
 *Figure 2. View of the Los Viscos Vein in the studies area*

@@ -23,7 +23,7 @@ Nucleosynthesis models come from three separate lines of evidence. Firstly - and
 
 The knowledge of relative abundance of elements in the Solar System, shown in Figure 1, comes from several sources. Through the study of spectroscopic data of the Sun and other stars, as well as studying rock samples - not only from Earth but also from other extraterrestrial bodies like meteorites and lunar samples - the modern notion for element formation started taking shape. 
 
-![Elements](/ninni/posts/writing-sample/WS1.png)
+![Elements](/posts/writing-sample/WS1.png)
 
 *Figure 1. The abundance of elements in the Solar System, logarithmic scale. Source: Wikimedia commons*
 
@@ -36,11 +36,11 @@ A simple analysis of Figure 1 shows fundamental truths about the composition on 
 
 During the late 1950s, the B2FH nucleosynthesis theory was presented. Its name is an acronym of its authors Burbidge, Burbidge, Fowler, and Hoyle, whom were awarded the Physics Nobel Prize in 1983 for the theory and other contributions to experimental physics. Within this model, which has been greatly expanded since its publication, there are three categories of nuclide production: cosmological, stellar, and explosive. The first one is associated with the Big Bang and the first events in the formation of the Universe, while the remaining two are associated with stars, their births, and deaths. A fourth category of nuclide formation was added later and is associated with cosmic rays and their interaction with matter - galactic nucleosynthesis. All of these will be discussed in the following sections (the chemical reactions involved are presented in Appendix 1).
 
-![B2FH](/ninni/posts/writing-sample/WS2.png)
+![B2FH](/posts/writing-sample/WS2.png)
 
 *Figure 2. Photograph of Margaret and Geoffrey Burbidge, Willy Fowler, and Fred Hoyle in 1971. Source: St. John’s University.*
 
-![PT](/ninni/posts/writing-sample/WS3.jpg)
+![PT](/posts/writing-sample/WS3.jpg)
 
 *Figure 3. A version of the periodic table indicating the origins of the elements.Source: David Darling Encyclopedia.*
 
@@ -50,7 +50,7 @@ Cosmological Nucleosynthesis
 
 Also known as primordial nucleosynthesis. These are the processes associated with the formation of matter at the very first stages of the Universe. A schematic sequence of the events following the Big Bang theory are presented in Figure 4. 
 
-![Sequence of time following the Big Bang ](/ninni/posts/writing-sample/WS4.jpg) 
+![Sequence of time following the Big Bang ](/posts/writing-sample/WS4.jpg) 
 
 *Figure 4. A simplified version of the events occurring right after the Big Bang. Source: Encyclopædia Britannica.*
 
@@ -58,7 +58,7 @@ After the first nanoseconds after the Big Bang (Figure 4.1), a dense “soup” 
 
 It was not until 3.5 minutes (4.4) had passed that temperatures dropped down to 1010 K (due to the Universe expansion) that hydrogen nuclei formed. This hydrogen started to combine forming 3He and then 4He. Approximately 24% of the mass present was converted to 4He and less than 0.01% to 2H, 3He, 7Li. The formation of heavier elements was inhibited by the instability of atoms with masses of 5 and 8, due to a barrier existing at 7Li. Once you try to add another proton to 7Li, radioactive decay ends up producing helium again, coming back down to lighter isotopes, Figure 5. 
 
-![Elements](/ninni/posts/writing-sample/WS5.png)
+![Elements](/posts/writing-sample/WS5.png)
 
 *Figure 5. Scheme of nuclear reaction chains for Big Bang nucleosynthesis. Source: Wikimedia commons*
 *References - n neutron, p proton, D deuterium, T tritium, ℽ gamma emission.*
@@ -72,7 +72,7 @@ Due to the barrier presented in the previous section, elements up to 7 atomic ma
 Before proceeding to the explanation of the processes of stellar and explosive nucleosynthesis there some important concepts to keep in mind.
 The first concept is associated with the binding energy of the nucleus for the different elements, as shown in Figure 6. The binding energy presented by 56Fe is the tipping point in this diagram. Elements to the left of 56Fe - with a smaller atomic mass - prefer to combine through fusion reactions in which energy is emitted, by coming together and forming more stable nuclei. This process is the main fuel of stars, and the formation of elements through this mechanism is known as stellar nucleosynthesis. As binding energies become smaller when moving to the right of the diagram, fusion cannot proceed above 56Fe and other mechanisms begin to take place. The right-hand side region is called the neutron- capture and the process of formation of all these elements happen as part of explosive nucleosynthesis processes.
 
-![Elements](/ninni/posts/writing-sample/WS6.jpg)
+![Elements](/posts/writing-sample/WS6.jpg)
 
 *Figure 6. Nuclear binding energies, shown as a function of atomic mass number. Source: Encyclopædia Britannica*
 
@@ -80,7 +80,7 @@ The second concept is associated with our element factories - stars. Stars shine
 
 Stars are classified according to their color and spectral lines, which themselves are correlated with their temperatures. The Hertzsprung–Russell diagram shown in Figure 7, plots the relationship between luminosity and surface temperature. About 90 percent of the stars in the Universe, including the Sun, are main-sequence stars, meaning they fuse hydrogen atoms to form helium atoms at their cores. These stars can range from about a tenth of the mass of the Sun to up to 200 times as massive. The mass is in direct relationship with the star’s life span and their fate once all the hydrogen fuel is consumed. The remaining 10 percent that fall outside the main sequence are mostly giants and supergiants whose life will end in one of the most spectacular natural events, a supernova explosion.   
 
-![Elements](/ninni/posts/writing-sample/WS7.jpg)
+![Elements](/posts/writing-sample/WS7.jpg)
 
 *Figure 7. The Hertzsprung–Russell diagram of the relationship between luminosity and surface temperature. Source: Encyclopædia Britannica.*
 
@@ -92,7 +92,7 @@ The second or older generation of stars can also produced He from another set of
 
 Both processes, PP and CNO, compete in main-sequence stars and their dominance is associated with the star’s temperature. In a sun-size star, the PP reactions account for about 98–99% of the energy production, with the CNO cycle producing the remainder (White, 2013).
 
-![Elements](/ninni/posts/writing-sample/WS8.gif)
+![Elements](/posts/writing-sample/WS8.gif)
 
 *Figure 8. Illustration of the CNO cycle, which operates in the larger second-generation stars. Source: Nobel Prize Website.*
 
@@ -100,13 +100,13 @@ Once hydrogen is consumed at the stellar core, the star’s temperature to rise.
 
 Our Sun will become a red giant in about 5.4 billion years. Models have shown that the expanding Sun will grow large enough to encompass the orbit of Mercury, Venus, and maybe even Earth.
 
-![Elements](/ninni/posts/writing-sample/WS9.gif)
+![Elements](/posts/writing-sample/WS9.gif)
 
 *Figure 9. Triple Alpha process, as three He nuclei must collide nearly simultaneously. Source: Wikimedia Commons*
 
 The next stage is critical for the star’s future. Low-mass stars such as the Sun are unable to create the conditions necessary for heavier fusions to occur ending their days as O-Ne-Mg white dwarf, Figure 10, as their outer envelopes are ejected after the carbon-burning phase.
 
-![Elements](/ninni/posts/writing-sample/WS10.png)
+![Elements](/posts/writing-sample/WS10.png)
 
 *Figure 10. Type of stars and Star Cycle*
 
@@ -115,7 +115,7 @@ High-mass stars, continue their fusion reactions by burning heavier and heavier 
 Depending on the size of the star, and therefore its pressure and temperature built at its center, simultaneous reactions can occur creating an onion-like structure as shown in Figure 11b. As explained above, the end of the line is the production of 56Fe. Once the iron group starts building at the star’s core, the star is running out of gas and the whole system is on the verge of collapse.
 (a)(b)
 
-![Elements](/ninni/posts/writing-sample/WS11.png)
+![Elements](/posts/writing-sample/WS11.png)
 
 *Figure 11. (a) Evolutionary path of the core of star of 25 solar masses (after Bethe and Brown, 1985). Note that the period spent in each phase depends on the mass of the star: massive stars evolve more rapidly. (b) Schematic diagram of the stellar structure at the onset of the supernova stage. Nuclear burning processes are illustrated for each stage. Source: White 2013.*
 
@@ -129,21 +129,21 @@ Stars have free neutrons flying around with very high amounts of energy, and esp
 
 Presented below is a small section of the chart of the nuclides, from silver (Ag) all the way to antimony (Sb), Figure 12. When adding a neutron to 109Ag, its mass increases by one creating 110Ag, but as the diagram shows 110Ag is unstable and it radioactively decays (by beta decay, β-) to 110Cd. 110Cd continues being bombarded by neutrons increasing its atomic mass until it reaches 115Cd, which once again is unstable and therefore radioactively decays to 115In. This process, called s (slow), simply continues by adding more and more neutrons to existing nuclei until unstable isotopes are reached and decay rapidly to a new heavier element. 
 
-![Elements](/ninni/posts/writing-sample/WS12.png)
+![Elements](/posts/writing-sample/WS12.png)
 *Figure 12. The s-process acting in the range from Ag to Sb. Notice gaps between isotopes created by the s- process. Source: Wikimedia Commons*
 
 The slow delivery of neutrons to existing nuclei can continue until uranium, but it is unable to account for the existence of proton-rich (i.e. 112Sn) or neutron-rich (i.e. 122Sn) isotopes of elements. To get past the barrier where unstable nuclei naturally decay to another element, these nuclei have to be rapidly bombarded with neutrons or hit with protons in stellar environments. Both processes, name R (rapid) and P (proton) respectively, are only possible in supernova scenarios, accounting for the lower abundance of isotopes created by these processes alone, Figure 13. Taking Indium as an example, the ratio between 113In and 113In is 1:19, this is due to the fact that while the former is only generated by the P-process, the latter is created by both S and R-processes. 
 
 Figure 13 presents a summary of explosive nucleosynthesis and the creation of elements associated with S, R and P processes. 
 
-![Elements](/ninni/posts/writing-sample/WS13.png)
+![Elements](/posts/writing-sample/WS13.png)
 *Figure 13. Diagram of the R-process path on a Z versus N diagram. The diagonal lines represent the R-process; while solid, horizontal lines show the S-process path of isotope formation.*
 
 Galactic nucleosynthesis
 ----
 Lithium, Beryllium, and Boron are not produced by stars or any of their associated processes, but minor quantities of 7Li have been produced through primordial nucleosynthesis processes. The formation of these elements is associated with cosmic ray spallation. Cosmic rays consist mainly of protons that move through space at nearly the speed of light and that interact with interstellar gas, producing gamma rays and these low-abundance elements. The energy produced can be detected by telescopes, as shown in Figure 14, and models suggest cosmic rays are mainly produced in supernova explosions, and to a lesser extent in pulsars and black holes. The interactions involved between the cosmic rays and their surroundings are not fully understood and are currently being studied. 
 
-![Elements](/ninni/posts/writing-sample/WS14.png)
+![Elements](/posts/writing-sample/WS14.png)
 *Figure 14. Fermi's Large Area Telescope resolved GeV gamma rays from supernova remnants of different ages and in different environments. W51C, W44 and IC 443 are middle-aged remnants between 4,000 and 30,000 years old. Cassiopeia A, which is only 330 years old, appears as a point source. Source: NASA*
 
 Final Remarks 
@@ -155,7 +155,7 @@ The human body is composed of around 37.2 trillion cells. Each cell is made up o
 
 ### We are stardust, literary.
 
-![Elements](/ninni/posts/writing-sample/WS15.jpg)
+![Elements](/posts/writing-sample/WS15.jpg)
 *Figure 15. Betelgeuse on the shoulder of Orion. Source: Telegraph Newspaper UK*
 
 # Thank you!
